@@ -8,6 +8,7 @@
 ✅ Create, view, and manage debts  
 ✅ Track debt details on a dashboard  
 ✅ Perform various operations on debts  
+✅ MVC design pattern
 
 ---
 
@@ -36,3 +37,34 @@
 🔗 **[GitHub Project Board](https://github.com/users/jsonmw/projects/2/views/1)**  
 🖥️ **[Backend Repository](https://github.com/jsonmw/DebtSolver-Backend)**  
 🌐 **[Frontend Repository](https://github.com/jsonmw/DebtSolver-Frontend)**  
+
+---
+
+#### Screenshots
+
+Current landing page:
+
+![image](https://github.com/user-attachments/assets/3a6de7f5-640c-4436-a8ab-ab183817a12e)
+
+
+User registration with validation:
+
+![image](https://github.com/user-attachments/assets/3a31b7c6-600d-45c2-8766-bc5fcc9c1d7f)
+
+New user welcome screen modal:
+
+![image](https://github.com/user-attachments/assets/1a273c14-be05-4c6b-961c-9ec91b813d56)
+
+Creating a new debt (conditionally renders debt type specific fields based on Card or Loan):
+
+![image](https://github.com/user-attachments/assets/9eb9a7cf-18f2-4051-95bf-d341ba124e87)
+![image](https://github.com/user-attachments/assets/167956fd-b960-4885-9e14-929eafe261e4)
+
+Updated dashboard with new debts:
+
+![image](https://github.com/user-attachments/assets/07b61097-974a-4a25-ad4f-42c84e66420a)
+
+REST API backend handling requests, authentication, and logging:
+
+![image](https://github.com/user-attachments/assets/c0a326db-fdbe-4f83-8c0c-80c36e4c42ec)
+
