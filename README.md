@@ -35,8 +35,8 @@
 ## Live Project & Repositories  
 
 🔗 **[GitHub Project Board](https://github.com/users/jsonmw/projects/2/views/1)**  
-🖥️ **[Backend Repository](https://github.com/jsonmw/DebtSolver-Backend)**  
-🌐 **[Frontend Repository](https://github.com/jsonmw/DebtSolver-Frontend)**  
+🖥️ **[Backend Repository](https://github.com/jsonmw/DS-spring-boot-backend)**  
+🌐 **[Frontend Repository](https://github.com/jsonmw/DS-react-frontend)**  
 
 ---
 
