@@ -64,6 +64,10 @@ Updated dashboard with new debts:
 
 ![image](https://github.com/user-attachments/assets/07b61097-974a-4a25-ad4f-42c84e66420a)
 
+Viewing single debt and options:
+
+![image](https://github.com/user-attachments/assets/4e6ce496-657f-4512-9b79-f9df27169ee0)
+
 REST API backend handling requests, authentication, and logging:
 
 ![image](https://github.com/user-attachments/assets/c0a326db-fdbe-4f83-8c0c-80c36e4c42ec)
